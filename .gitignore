@@ -1,0 +1,84 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+.conda/
+conda-env.yaml
+
+# Python packaging / build
+build/
+dist/
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+
+# Jupyter
+.ipynb_checkpoints/
+jupyter_runtime/
+.nbconvert/
+.ipynb_checkpoints
+
+# Notebook outputs (uncomment if you don't want outputs committed)
+# *.nbconvert.ipynb
+
+# Data files (uncomment or adjust if you want to track small datasets)
+data/
+datasets/
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.hdf5
+*.npz
+*.npy
+*.db
+
+# Model artifacts
+saved_model/
+checkpoints/
+models/
+weights/
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.model
+
+# Logs and experiment runs
+logs/
+*.log
+runs/
+tensorboard/
+tb_logs/
+
+# Testing / coverage
+.coverage
+.coverage.*
+htmlcov/
+.pytest_cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets / env
+.env
+.env.*
+secrets/
+*.pem
+*.key
+
+## Miscellanious
+.github/

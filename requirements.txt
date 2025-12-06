@@ -1,0 +1,28 @@
+# Data Manipulation & Math
+pandas
+numpy
+
+# Scraping
+google-play-scraper
+
+# NLP & Text Processing
+nltk
+langdetect      # For language detection
+emoji           # To handle/remove emojis easily
+
+# Machine Learning
+scikit-learn
+joblib          # For saving/loading the model efficiently
+
+# Visualization
+matplotlib
+seaborn
+wordcloud
+
+# Dashboard / Web App
+streamlit
+
+# Utilities
+tqdm            # Progress bars
+python-dotenv   # Managing .env variables
+openpyxl        # For reading/writing Excel if needed
