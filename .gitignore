@@ -42,7 +42,7 @@ datasets/
 # Model artifacts
 saved_model/
 checkpoints/
-models/
+
 weights/
 *.pt
 *.pth
