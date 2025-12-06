@@ -19,9 +19,12 @@ matplotlib
 seaborn
 
 # Dashboard / Web App
-streamlit
+streamlit        # For creating interactive dashboards and web apps
 
 # Utilities
 tqdm            # Progress bars
 python-dotenv   # Managing .env variables
 openpyxl        # For reading/writing Excel if needed
+
+jupyter         # to run Jupyter notebooks
+ipykernel       # Kernel for Jupyter
