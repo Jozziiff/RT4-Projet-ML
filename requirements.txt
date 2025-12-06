@@ -17,7 +17,6 @@ joblib          # For saving/loading the model efficiently
 # Visualization
 matplotlib
 seaborn
-wordcloud
 
 # Dashboard / Web App
 streamlit
